@@ -85,5 +85,3 @@ Each feature is controlled using numeric permissions:
 | Manage Users | 64 |
 
 ---
-
-## 📂 Project Structure
